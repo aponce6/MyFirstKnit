@@ -1,0 +1,78 @@
+---
+title: "First Knit"
+author: "Anthny Ponce"
+date: "September 4th, 2019"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+---
+
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. Half the points in this assignment depend on your picture and name being correct!!  Be sure to put your photo in the AAA_Owner_Info folder and call it My_photo.jpg after first renaming the current one to Koala.jpg . 
+
+##Where are you now?  
+What row are you in, front,middle or back?  Do you usually choose a similiar row in other classes? What is the computer number where you are sitting?  How on a scale of 1 to 10 (1=low, 10=high) How you feel about periodic seat re-assignment, say how and why. Teams, have you ever worked on one in a class setting?  
+
+###my answer  
+I was sitting at the very last row on during Friday's lecture. I am currently sitting in a study room on the 4th floor of the library. I typically sit wherever I CAN feel a draft, as I perceive my environment as warmer than it actually is.  
+I scale a 3-4 for seating reassignments. While i can understand why some professors do it, I personally find it slightly condescending towards the class setting: all of us are adults and can be expected to work productively, regardless of where we choose to sit.  
+I have worked in a group setting for multiple classes under the economics department and mathematics department at CSUB.
+
+
+##Others and You?   
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want me to call you something else - what would that be? 
+
+###my answer     
+Anyone is free to call me as they please; it doesn't bother me if anyone mispronounces my name either. Just don't call me late for dinner.
+
+##Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+###my answer     
+I aspire to attend a fullly funded graduate program for economics at the PhD level to eventually establish a career teaching the subject to college students. That, paired with statistics and analytics, is, in my opinion, one of the most fascinating subjects that apply to all aspects of our day to day actions; I would not mind dedicating my time to the study as a career option.
+   
+ 
+
+##Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+###my answer     
+  My family and I would occaasionally travel to Mexico when during my younger years. Recently, though, I haven't done much international travel. I have never served in the military, nor have family that has.
+   
+  
+##Why are you taking Math 115?  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?
+ 
+
+###my answer     
+  I have already taken stats during my freshmen year of college, so I do not see it as much of a hurdle now. I am, however, currently taking Probability Theory with the intention of eventually taking  Mathematical Statistics (MATH 4200) in preparation for graduate school.
+   
+ 
+
+
+
+
+
+##Homework Help and Getting around?  
+On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  Do you have a computer you can use at home? If so, what kind is it (windows, Apple, Linux)? Do you have internet access at home?  
+How do you get to class? Are there issues that limit when you can be at the college?Where and when did you attend high school?  Do you currently have a job?
+
+###my answer   
+  I'd rank myself between a 5 to 6. While I am not extraordinarily computer savy, I am able to get myself around any tasks or upkeeping for my personal Windows laptop. I also do have internet access at home.   
+  I drive myself to classes and work everyday. I work on the CSUB campus as a tutor for the economics department. I also have no issues that limit the amount of time I can spend on campus.    
+  I attended Golden Valley High School for my high school years.
+  
+
+
+## Critique of Business Article   
+  
+  For the application of AI in business environments to take off sucessfully, three important transitions are needed within business entities. First, teams of diverse talents must work in unison to meet mission statements and ensure that end users, as well as maintenence steps, are not overlloked when designing AI applications. Second, certain levels of trust must exist in the capability of AI decision making must exist at all level of the business entity; that is, employees should not consult their higher-ups prior to taking action. Third, businesses cannot expect any AI application to be fully developed before initial use; on the contrary, it is necessary for business organizations to look for flaws upon implementation in business activities, voice their input into bettering the current version, and for development teams to implement that into newer versions.    
+
+   These transitions, however, do not occur with such ease for a large majority of businesses. Due to misleaading presentation by managerial leaders, concerns employees hold of being replaced by AI, underestimating costs of adaptating AI in workplace environments, and shortsighted goals set by businesses make tranisitioning to AI business environments more difficult. Emphasis should thus be placed on understanding what AI really represents for businesses and the potential it carries for improving workflows at all levels of an organization.    
+
+   When successful, though, organizations assign goverenence of processes invloving AI to hubs of specialized analysts, to spokes that are in frequent communication with teams of employees and end users that are more likely to utilize AI, or to both.  These assignments are primarily based on the AI maturity and complexity of the firm. Regardless of how responsibilities are allocated, businesses that integrate AI into workflows 1) have teams of leaders in IT, business, and analytics working in unison to integrate AI and 2) have interdisciplinary teams that voice staff input into AI adoption. Providing organization with technical literacy and understanding, thus, can be the make or break in determining how AI will fit into business organization.     
+
+   Educating business entities, from leaders down to end users, is a must for succesful business applications of AI. Reinforcement of AI adoption is also key for efficient AI in business flows: humbly encouraging openminded workflows, defining accountability and responsibility of usage, documenting improvements, and incentivizing AI adoption all are effective methods of reinforcemnt. 
